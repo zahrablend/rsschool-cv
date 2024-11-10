@@ -6,20 +6,39 @@
 **GitHub:** [zahrablend](https://github.com/zahrablend)
 
 ### Summary
-4. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+Experienced professional within Customer Care and Back-office Operations.
+Ready for a meaningful entry level position within **IT** / **FinTech** / **Business Consulting** industry as a developer with _information security awareness_, where I could use my technical, English language skills (C1 level) and personal traits.
+Experienced working in multicultural teams, love helping others, researching things and solving puzzles.
 
 ### Skills
-6. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
++ Agile Software Development
++ Working in Cross-cultural Teams
++ Version Control
++ C#, HTML, CSS, SASS
++ Confluence, Jira, Microsoft Azure DevOps
 
 ### Experience
-8. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+**Junior Core.NET developer**
+_Feb 2024 - May 2024_
+.NET internship at **Accenture Baltics**
+
+**Career transition**
+_Oct 2021 - Dec 2023_
++ Acceleration Program Mentee at **Women Go Tech** | April 2023 - November 2023.
++ .NET Bootcamp by **Accenture** | May 2023 – October 2023.
++ Basic technology training in Microsoft .NET at **SheGoesTech** | August 2022 – October 2022
+
+**CS & Back office specialist**
+_Sep 2019 - Oct 2021_
+A cross-functional role at **tesa tape UAB** of external and internal customer service to Baltic markets. This included but not limited to operational tasks, such as order processing, dealing with supply chain and logistics, as well as providing a timely first-hand support for customers and sales force. Daily tasks involved claims, returns, issuing credit and debit notes, monitoring payments and ordering history, handling contracts and master data. Top working tools: SAP, Outlook, MS Excel, MS Teams, Skype, cloud.
 
 ### Education
-10. Education (including courses, seminars, lectures, online learning)
++ [IT-Crafters](https://itcrafters.eu/) | Java and Spring Boot developer training program | November 2024 - Present
++ [RS School](https://rs.school/courses) | JS / Front-End Developer training | October 2024 - Present
++ [TryHackMe](https://tryhackme.com/) Introduction to Cyber Security Learning Path | June 2024
++ [Cardiff Metropolitan University](https://www.cardiffmet.ac.uk/Pages/default.aspx) | BA International Business Administration
 
 ### Languages
-12. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
++ English (C1)
++ Lithuanian (bilingual | mothertongue)
++ Russian (bilingual | mothertongue)
