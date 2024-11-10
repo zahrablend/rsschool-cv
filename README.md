@@ -1,2 +1,1 @@
-# rsschool-cv
-"CV. Markdown" task with Resume
+https://github.com/zahrablend/rsschool-cv.git
